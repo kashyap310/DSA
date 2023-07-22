@@ -11,7 +11,7 @@ This repository contains C++ code related to Data Structures and Algorithms (DSA
 To access the code, you can clone the repository using the following command:
 
 ```bash
-git clone https://github.com/your_username/your_repo_name.git
+git clone https://github.com/kashyap310/DSA.git
 ```
 ## Programming Language
 
