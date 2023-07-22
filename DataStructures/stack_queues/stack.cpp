@@ -38,6 +38,6 @@ class Stack{
 int main(){
     Stack s;
     s.Push(3);
-    cout<<s.Top()<<endl;
+    cout<<s.Top()<<""<<endl;
     return 0;
 }
