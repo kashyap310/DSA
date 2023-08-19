@@ -3,7 +3,7 @@
 using namespace std;
 class Solution {
 public:
-    //Kadane's Algorithm:
+    //Kadane's Algo
     int maxSubArray(vector<int>& nums) {
         int current_sum = nums[0], max_sum = nums[0];
        for(int i=1;i<nums.size();i++){
